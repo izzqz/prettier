@@ -7,7 +7,7 @@
     "singleQuote": true,
     "trailingComma": "all",
     "bracketSpacing": true,
-    "bracketSameLine", false,
+    "bracketSameLine": false,
     "requirePragma": false,
     "insertPragma": false,
     "proseWrap": "preserve",
